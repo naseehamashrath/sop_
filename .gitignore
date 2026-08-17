@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+.rag_index/
+__pycache__/
+*.pyc
+.env
+work/
+venv/
+.venv/
